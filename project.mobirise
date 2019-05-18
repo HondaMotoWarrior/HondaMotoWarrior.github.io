@@ -32,7 +32,8 @@
     "cookiesAlert": "W celu poprawy naszych usług, stosujemy na tej stronie pliki cookies. Więcej szczegółów na ten temat znajdziesz na stronie <a href=\"polityka.html\">Polityka Prywatności</a>.",
     "google-analytics": "",
     "uniqCompNum": 16,
-    "versionPublish": "4.10.1"
+    "versionPublish": "4.10.1",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
