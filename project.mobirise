@@ -314,39 +314,6 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
               }
             ]
           },
@@ -381,7 +348,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Zalukaj na Insta",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1960321100518103536_4754789679\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1960321100518103536_4754789679\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Więcej</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
