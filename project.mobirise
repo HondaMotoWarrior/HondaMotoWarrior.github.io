@@ -119,7 +119,7 @@
               "src": "@PROJECT_PATH@/assets/images/mbr-1920x1469.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html#header2-1",
               "title": "",
               "linkInNewWindow": false
             },
@@ -129,7 +129,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HondaMotoWarrior</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header2-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HondaMotoWarrior</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0"
         },
@@ -520,7 +520,7 @@
               "src": "@PROJECT_PATH@/assets/images/mbr-1920x1469.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html#header2-1",
               "title": "",
               "linkInNewWindow": false
             },
@@ -530,7 +530,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HondaMotoWarrior</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header2-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HondaMotoWarrior</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-c"
         },
@@ -662,7 +662,7 @@
               "src": "@PROJECT_PATH@/assets/images/mbr-1920x1469.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html#header2-1",
               "title": "",
               "linkInNewWindow": false
             },
@@ -672,7 +672,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HondaMotoWarrior</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header2-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HondaMotoWarrior</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-e"
         }
@@ -758,7 +758,7 @@
               "src": "@PROJECT_PATH@/assets/images/mbr-1920x1469.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html#header2-1",
               "title": "",
               "linkInNewWindow": false
             },
@@ -768,7 +768,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HondaMotoWarrior</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header2-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HondaMotoWarrior</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-f"
         }
