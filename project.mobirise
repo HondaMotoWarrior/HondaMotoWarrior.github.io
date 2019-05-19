@@ -31,7 +31,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "W celu poprawy naszych usług, stosujemy na tej stronie pliki cookies. Więcej szczegółów na ten temat znajdziesz na stronie <a href=\"polityka.html\">Polityka Prywatności</a>.",
     "google-analytics": "",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -175,8 +175,8 @@
               "size": 250
             }
           },
-          "title": "Najlepszy blog motocyklowy!!!",
-          "text": "",
+          "title": "Jedyny taki blog motocyklowy!!!",
+          "text": "O Mnie!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"omnie.html#testimonials1-d\" data-toolbar=\"-mbrBtnMove\">Czytaj więcej</a>",
           "_tags": [
             "Motywy"
